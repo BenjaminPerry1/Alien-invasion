@@ -9,4 +9,4 @@ class Ship():
   self.image = pygame.image.load('images/ship.bmp')
   self.rect = self.image.get rect()
   self.screen_rect = self.screen_rect.bottom
-  
+  2
